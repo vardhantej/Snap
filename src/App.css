@@ -1,8 +1,0 @@
-.bottom {
-  background: rgb(144, 198, 241);
-  z-index: -1;
-  position: fixed;
-  bottom: 0px;
-  right: 0px;
-  opacity: 0.5;
-}
