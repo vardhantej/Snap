@@ -8,7 +8,7 @@ import userRoutes from './routes/users.js';
 
 import dotenv from 'dotenv';
 
-//using bcryptjs and jsonwebtoken for authorization
+//using bcryptjs and jsonwebtoken for authentication
 
 const app= express();
 
