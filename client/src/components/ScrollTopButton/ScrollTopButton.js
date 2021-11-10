@@ -15,7 +15,7 @@ const ScrollTopButton = () => {
     }
   };
 
-  // Set the top cordinate to 0
+  // Set the top coordinate to 0
   // make scrolling smooth
   const scrollToTop = () => {
     window.scrollTo({
